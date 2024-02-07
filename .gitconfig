@@ -1,0 +1,7 @@
+[safe]
+	directory = *
+[http]
+	sslverify = false
+[user]
+	email = hiliu31@gmail.com
+	name = Castaccc
